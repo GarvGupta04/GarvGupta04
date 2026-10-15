@@ -54,8 +54,7 @@
 ## 🚀 Featured Projects
 
 - 🎓 **SkillSpring** — AI-powered Personalized Learning Platform
-- 🧬 **Sepsis Disease Prediction using AI & Machine Learning**
-- 🎮 **Arcadium** — Sports & Gaming Venue Booking Platform
+
 
 ---
 
