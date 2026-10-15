@@ -8,9 +8,6 @@
   Building projects, solving problems, and exploring data-driven and AI-powered solutions.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GarvGupta04&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
 ---
 
 ## 👨‍💻 About Me
