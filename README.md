@@ -42,35 +42,13 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Programming Languages:** Python, C, C++, Java (Basic), MATLAB, R
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts"/>
-</p>
+**Web Development:** HTML, CSS, JavaScript (Basic), React
 
-### Frontend
+**Tools & Platforms:** Google Colab, Jupyter Notebook, Git, GitHub
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,prisma"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws,gcp"/>
-</p>
+**Soft Skills:** Leadership, Event Management, Communication, Teamwork
 
 ---
 
