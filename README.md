@@ -53,8 +53,9 @@
 
 ## 🚀 Featured Projects
 
-- 🎓 **SkillSpring** — AI-powered Personalized Learning Platform
-
+- 🎓 **[SkillSpring](https://github.com/GarvGupta04)** — AI-powered personalized learning platform designed to deliver adaptive learning experiences.
+- 📊 **[EDA Co-Pilot](https://github.com/GarvGupta04/EDA-CoPilot)** — AI-powered assistant that helps simplify Exploratory Data Analysis and uncover insights from datasets.
+- 🤖 **[AI Code Reviewer](https://github.com/GarvGupta04/AI_Code_Reviewer-)** — AI-powered code review tool that analyzes code and helps identify potential issues and improvements.
 
 ---
 
