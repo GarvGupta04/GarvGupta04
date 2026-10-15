@@ -23,6 +23,17 @@
   
 ---
 
+## 💼 Experience
+
+**Sopra Steria India — Externship**  
+*May 2026 – July 2026*
+
+- Contributed to the development of **EDA Co-Pilot**, an AI-powered assistant for exploratory data analysis.
+- Worked with technologies including **Hono, JavaScript/TypeScript, and Groq LLMs**.
+- Gained practical experience in AI integration and software development.
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
