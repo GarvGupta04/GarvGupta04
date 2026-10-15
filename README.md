@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Garv Gupta</h1>
+< h1 align="center">Hi 👋, I'm Garv Gupta</h1>
 
 <h3 align="center">
-🎓 CSE (Data Science) @ VIT Vellore &nbsp;|&nbsp; 💻 Software Developer &nbsp;|&nbsp; 🤖 AI/ML Enthusiast
+🎓 CSE (Data Science) @ VIT Vellore &nbsp;|&nbsp; 💻 Software Developer &nbsp;|&nbsp; 📊 Data Science & AI/ML Enthusiast
 </h3>
 
 <p align="center">
-  Building projects, solving problems, and exploring the intersection of software engineering, data science, and AI.
+  Building projects, solving problems, and exploring data-driven and AI-powered solutions.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GarvGupta04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=GarvGupta04&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
