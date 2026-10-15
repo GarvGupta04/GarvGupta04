@@ -1,4 +1,4 @@
-< h1 align="center">Hi 👋, I'm Garv Gupta</h1>
+<h1 align="center">Hi 👋, I'm Garv Gupta</h1>
 
 <h3 align="center">
 🎓 CSE (Data Science) @ VIT Vellore &nbsp;|&nbsp; 💻 Software Developer &nbsp;|&nbsp; 📊 Data Science & AI/ML Enthusiast
