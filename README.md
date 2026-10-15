@@ -1,27 +1,30 @@
 <h1 align="center">Hi 👋, I'm Garv Gupta</h1>
 
 <h3 align="center">
-🚀 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI/ML Enthusiast &nbsp;|&nbsp; 🗄️ Database Designer
+🎓 CSE (Data Science) @ VIT Vellore &nbsp;|&nbsp; 💻 Software Developer &nbsp;|&nbsp; 🤖 AI/ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GarvGupta04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  Building projects, solving problems, and exploring the intersection of software engineering, data science, and AI.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GarvGupta04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (Data Science) student at **VIT Vellore** (CGPA: **9.09/10**)
-- 💻 Building **AI-powered Full-Stack Web Applications**
-- 🚀 Currently working on **SkillSpring**, an AI-powered personalized learning platform
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, LLMs, and Generative AI**
-- 🗄️ Passionate about **Database Design, System Design, and Backend Development**
-- 🌱 Learning **Next.js, PostgreSQL, Prisma, Docker, and Cloud Technologies**
-- 🏆 Passionate about **Hackathons, Open Source, and Real-World AI Solutions**
-- 💬 Ask me about **C++, JavaScript, React, Node.js, Express.js, PostgreSQL, Prisma, and AI/ML**
-- ⚡ Fun Fact: **I love turning ambitious ideas into real products.**
-
+- 🎓 3rd-year B.Tech CSE student specializing in **Data Science at VIT Vellore**
+- 💻 Passionate about **Software Development, Data Science, and AI**
+- 🚀 Building projects that combine problem-solving, intelligent systems, and practical applications
+- 🧠 Currently strengthening my **DSA, programming, and full-stack development** skills
+- 🛠️ Experienced in developing projects using Python, C++, JavaScript, React, and modern development tools
+- 🌱 Always exploring new technologies and learning by building projects
+- 🤝 Events Head at **BIF NGO Club**, interested in leadership, teamwork, and community impact
+- 🎯 Aspiring to become a software engineer who builds impactful, scalable solutions
+  
 ---
 
 ## 🌐 Connect With Me
