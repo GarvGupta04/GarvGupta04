@@ -52,13 +52,17 @@
 
 ## 🛠️ Tech Stack
 
-**Programming Languages:** Python, C, C++, Java (Basic), MATLAB, R
+**Programming Languages:** Python, C, C++, Java (Basic), JavaScript, SQL
 
-**Web Development:** HTML, CSS, JavaScript (Basic), React
+**Web Development:** HTML, CSS, React.js, Next.js, Node.js, Express.js, REST APIs
 
-**Tools & Platforms:** Google Colab, Jupyter Notebook, Git, GitHub
+**Databases:** MySQL, PostgreSQL, SQLite, Prisma ORM
 
-**Soft Skills:** Leadership, Event Management, Communication, Teamwork
+**Data Science & AI:** Pandas, Data Analysis, Exploratory Data Analysis (EDA), Data Visualization, Generative AI, LLM Integration
+
+**Developer Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Vite
+
+**Soft Skills:** Leadership, Teamwork, Communication, Event Management
 
 ---
 
