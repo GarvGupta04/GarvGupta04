@@ -56,7 +56,7 @@
 
 **Web Development:** HTML, CSS, React.js, Next.js, Node.js, Express.js, REST APIs
 
-**Databases:** MySQL, PostgreSQL, SQLite, Prisma ORM
+**Databases:** MySQL
 
 **Data Science & AI:** Pandas, Data Analysis, Exploratory Data Analysis (EDA), Data Visualization, Generative AI, LLM Integration
 
