@@ -82,15 +82,14 @@
 
 ---
 
-## 🚀 Current Focus
-
+## 🎯 Current Focus
 ```text
-Building AI-Powered Software
-├── Full-Stack Development
-├── Artificial Intelligence
-├── Machine Learning
-├── System Design
-├── PostgreSQL & Prisma
-├── Cloud Computing
-└── Winning Hackathons 🚀
+Building AI-Powered Applications
+├── Full-Stack Web Development
+├── Generative AI & LLM Integration
+├── Data Science & Exploratory Data Analysis
+├── Data Structures & Algorithms
+├── Database Design & SQL
+├── API Integration & Backend Development
+└── Building Projects & Participating in Hackathons 🚀
 ```
