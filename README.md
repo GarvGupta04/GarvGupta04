@@ -54,7 +54,7 @@
 
 **Programming Languages:** Python, C, C++, Java (Basic), JavaScript, SQL
 
-**Web Development:** HTML, CSS, React.js, Next.js, Node.js, Express.js, REST APIs
+**Web Development:** HTML, CSS, React.js, Next.js, Node.js, REST APIs
 
 **Databases:** MySQL
 
