@@ -69,8 +69,11 @@
 ## 🚀 Featured Projects
 
 - 🎓 **[SkillSpring](https://github.com/GarvGupta04)** — AI-powered personalized learning platform designed to deliver adaptive learning experiences.
-- 📊 **[EDA Co-Pilot](https://github.com/GarvGupta04/EDA-CoPilot)** — AI-powered assistant that helps simplify Exploratory Data Analysis and uncover insights from datasets.
-- 🤖 **[AI Code Reviewer](https://github.com/GarvGupta04/AI_Code_Reviewer-)** — AI-powered code review tool that analyzes code and helps identify potential issues and improvements.
+- 🔗 **[URL Shortener with Analytics](https://github.com/GarvGupta04/URL-Shortener-with-Analytics)** — A full-stack URL shortening application featuring click tracking, dashboard statistics, and URL analytics.
+- ✅ **[TaskFlow – Task Management App](https://github.com/GarvGupta04/Task-Flow-App)** — A full-stack task management application built with React, Node.js, Express, and MySQL.
+- 🎓 **[Student Management System](https://github.com/GarvGupta04/StudentManagementSystem)** — A full-stack application for managing student records and academic information.
+- 🌦️ **[Weather App](https://github.com/GarvGupta04/Weather-App)** — A weather application built using JavaScript and the Open-Meteo API to fetch and display real-time weather information.
+- 📊 **[Marks Analyzer](https://github.com/GarvGupta04/Marks-Analyzer)** — A web-based student performance analysis dashboard built using HTML, CSS, and JavaScript.
 
 ---
 
