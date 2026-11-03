@@ -84,15 +84,13 @@
 </p>
 
 ---
+### 💡 Areas of Interest
 
-## 🎯 Current Focus
-```text
-Building AI-Powered Applications
-├── Full-Stack Web Development
-├── Generative AI & LLM Integration
-├── Data Science & Exploratory Data Analysis
-├── Data Structures & Algorithms
-├── Database Design & SQL
-├── API Integration & Backend Development
-└── Building Projects & Participating in Hackathons 🚀
-```
+- 🤖 Building AI-Powered Applications
+- 🌐 Full-Stack Web Development
+- 🧠 Generative AI & LLM Integration
+- 📊 Data Science & Exploratory Data Analysis
+- 💻 Data Structures & Algorithms
+- 🗄️ Database Design & SQL
+- 🔌 API Integration & Backend Development
+- 🚀 Building Innovative Projects & Participating in Hackathons
