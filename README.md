@@ -84,7 +84,7 @@
 </p>
 
 ---
-### 💡 Areas of Interest
+## 💡 Areas of Interest
 
 - 🤖 Building AI-Powered Applications
 - 🌐 Full-Stack Web Development
